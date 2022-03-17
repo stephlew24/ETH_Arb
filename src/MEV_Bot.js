@@ -1,8 +1,8 @@
-import {BlockChecker} from './helpers/BlockChecker.js'
+import {BlockChecker} from '../helpers/BlockChecker.js'
 // import Web3 from 'web3'
-import abis from './abis/index.cjs'
-import addressesr from './addresses/rinkeby/index.cjs'
-import addresses from './addresses/mainnet/index.cjs'
+import abis from '../abis/index.cjs'
+import addressesr from '../addresses/rinkeby/index.cjs'
+import addresses from '../addresses/mainnet/index.cjs'
 
 // Define the Variables
 const AMOUNT_ETH = 100 // Set this up to pull from your wallet address
